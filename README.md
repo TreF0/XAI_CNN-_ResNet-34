@@ -43,7 +43,7 @@ Poniższe macierze zestawiają ze sobą wyniki algorytmów pod kątem ich zbież
 
 | Podobieństwo Cosinusowe | Korelacja Pearsona | Podobieństwo SSIM |
 | :---: | :---: | :---: |
-| <img src="macierz_cosine_BCC.png" width="300"> | <img src="macierz_pearson_BCC.png" width="300"> | <img src="macierz_ssim_BCC.png" width="300"> |
+| <img src="img/macierz_cosine_BCC.png" width="300"> | <img src="img/macierz_pearson_BCC.png" width="300"> | <img src="img/macierz_ssim_BCC.png" width="300"> |
 * **Podobieństwo Cosinusowe**: Mierzy zbieżność kierunkową wektorów atrybucji, ignorując ich skalę.
 * **Korelacja Pearsona**: Określa liniową zależność między natężeniem ważności pikseli w różnych metodach.
 * **SSIM (Structural Similarity Index)**: Analizuje podobieństwo struktur i tekstur na mapach, co jest kluczowe przy ocenie fuzji warstw w Layer-CAM.
