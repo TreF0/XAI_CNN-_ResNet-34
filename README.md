@@ -1,1 +1,1 @@
-# XAI_CNN-_ResNet-34
+# XAI_CNN_ResNet-34
